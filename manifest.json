@@ -12,7 +12,7 @@
   "web_accessible_resources": ["script.js", "style.css"],
   "browser_action": {
     "default_title": "SnapFox",
-    "default_icon": "logo.png",
+    "default_icon": "SnapFox.png",
     "default_popup": "popup.html"
   },
   "manifest_version": 2,
