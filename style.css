@@ -1,7 +1,8 @@
-// 2020 SnapFox
-
 #top-bar {
-    background: #2e89fd;
-    height: 48px;
-    color: #ffffff;
+    background: #212639;
+}
+
+body {
+    color: #fff;
+    background: #2d3142;
 }
