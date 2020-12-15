@@ -1,8 +1,41 @@
+/*dark mode*/
 #top-bar {
+    background: #212639;
+}
+
+#top-bar .pure-menu-horizontal .pure-menu-children {
+    width: auto;
+    min-width: 100%;
+    background: #212639;
+}
+
+#footer {
     background: #212639;
 }
 
 body {
     color: #fff;
     background: #2d3142;
+}
+
+.fa, .fas {
+    color: lightgray;
+}
+
+.paginator {
+    color: white;
+}
+
+.paginator .total-pages {
+    color: lightgray;
+    filter: contrast();
+}
+
+a {
+    color: #5b5bbd;
+    text-decoration: none;
+}
+
+.collection .description, .project.big .notes {
+    color: #1a1b20;
 }
