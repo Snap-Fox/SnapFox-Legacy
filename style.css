@@ -39,3 +39,8 @@ a {
 .collection .description, .project.big .notes {
     color: #1a1b20;
 }
+
+#loading {
+    background: #2d3142;
+    color:white;
+}
