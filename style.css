@@ -1,16 +1,18 @@
 /*dark mode*/
 #top-bar {
-    background: #212639;
+    background: #222221;
+    box-shadow: 0px 5px 5px 1px #151515;
 }
 
 #top-bar .pure-menu-horizontal .pure-menu-children {
     width: auto;
     min-width: 100%;
-    background: #212639;
+    background: #222;
 }
 
 #footer {
-    background: #212639;
+    background: #222;
+    box-shadow: 0px 5px 5px 9px #151515;
 }
 
 body {
@@ -32,7 +34,7 @@ body {
 }
 
 a {
-    color: #5b5bbd;
+    color: #0F82AF;
     text-decoration: none;
 }
 
@@ -41,6 +43,6 @@ a {
 }
 
 #loading {
-    background: #2d3142;
+    background: #222;
     color:white;
 }
