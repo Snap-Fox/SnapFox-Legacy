@@ -7,7 +7,7 @@
  <img alt="Github" src="https://img.shields.io/badge/bage-vertified-sucsess?style=flat-square">
 
 </p>
-<img src="https://snap-fox.github.io/SnapFox/SnapFox.png" alt="Scratch Addons logo" align="right" width="128px"></img>
+<img src="/SnapFox.png" alt="Scratch Addons logo" align="right" width="128px"></img>
 
 
 
