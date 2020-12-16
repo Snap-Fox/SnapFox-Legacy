@@ -46,3 +46,16 @@ a {
     background: #222;
     color:white;
 }
+
+.project.big .controlbar {
+    box-sizing: border-box;
+    z-index: 200;
+    background: #222;
+    padding: 0.4em 0.5em;
+    border-radius: 5px 5px 0 0;
+    text-align: left;
+}
+
+.project iframe, .project .embed-placeholder {
+    border-radius: 7px;
+}
