@@ -30,3 +30,7 @@ You can **only** use SnapFox on https://snap.berkeley.edu/
 Dark mode is now live in `v1.1`!
 
 <img src="https://d1eo0ig0pi5tcs.cloudfront.net/optimized/2X/2/204d569c9e8a0202fce800289f58e0c2750ca78d_2_345x177.jpeg" width="400">
+
+
+# Disclaimer
+SnapFox is not endorsed or created by Snap<em>!</em> itself.
