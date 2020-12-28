@@ -59,3 +59,8 @@ a {
 .project iframe, .project .embed-placeholder {
     border-radius: 7px;
 }
+
+.customalert .header, .customalert .body, .customalert .footer {
+    color: black;
+    
+}
