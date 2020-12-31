@@ -25,11 +25,30 @@ You can **only** install SnapFox on https://addons.mozilla.org for Firefox only
 ## Usage
 You can **only** use SnapFox on https://snap.berkeley.edu/
 
-# Updates
+## UserScript
+Can't install? Use the User script
+```userscript
+// ==UserScript==
+// @name         [Snap!] Dark Theme
+// @namespace    https://snap-fox.github.io
+// @version      1.0
+// @description  Adds a dark mode for the snap! website
+// @author       Daniel Barton
+// @match        *https://snap.berkeley.edu/*
+// @grant        none
+// ==/UserScript==
 
-Dark mode is now live in `v1.1`!
+(function() {
+    'use strict';
 
-<img src="https://d1eo0ig0pi5tcs.cloudfront.net/optimized/2X/2/204d569c9e8a0202fce800289f58e0c2750ca78d_2_345x177.jpeg" width="400">
+     var styleTag = document.createElement('link');
+    styleTag.setAttribute('rel', 'stylesheet');
+    styleTag.setAttribute('href', 'https://snap-fox.github.io/SnapFox/style.css');
+    document.head.appendChild(styleTag);
+    document.getElementsByClassName('logo')[0].src = 'https://snap.berkeley.edu/img/topbar-logo.png';
+})();
+
+```
 
 
 # Disclaimer
