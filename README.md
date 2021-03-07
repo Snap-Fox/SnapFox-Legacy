@@ -18,9 +18,16 @@ en extention for Snap on FireFox
 # Guide
 
 ## Install
-You can **only** install SnapFox on https://addons.mozilla.org for Firefox only
+
+### FireFox
+You can install SnapFox from the Firefox Addons (https://addons.mozilla.org) store
 
  <a href="https://addons.mozilla.org/en-GB/firefox/addon/snapfox/"><img src="https://img.shields.io/badge/Download-on%20Firefox-blueviolet?style=flat-square&logo=firefox"> </a>
+ 
+### Opera / Opera GX
+Download the lastest a version of SnapFox from https://addons.mozilla.org/firefox/downloads/file/3700781/snapfox-1.4.5-an+fx.xpi  then,
+Load the file as a "unpacked extension" into opera
+
  
 ## Usage
 You can **only** use SnapFox on https://snap.berkeley.edu/
