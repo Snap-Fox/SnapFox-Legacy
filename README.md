@@ -20,10 +20,14 @@ en extention for Snap on FireFox
 You can install SnapFox from the Firefox Addons (https://addons.mozilla.org) store
 
  <a href="https://addons.mozilla.org/en-GB/firefox/addon/snapfox/"><img src="https://img.shields.io/badge/Download-on%20Firefox-blueviolet?style=flat-square&logo=firefox"> </a>
- 
+
+### Chrome / Brave
+Download the lastest a version of SnapFox from https://addons.mozilla.org/firefox/downloads/file/3700781/snapfox-1.4.5-an+fx.xpi  then, go to extensions, turn on developer mode and
+load the file as a "unpacked extension" into chrome.
+
 ### Opera / Opera GX
-Download the lastest a version of SnapFox from https://addons.mozilla.org/firefox/downloads/file/3700781/snapfox-1.4.5-an+fx.xpi  then,
-Load the file as a "unpacked extension" into opera
+Download the lastest a version of SnapFox from https://addons.mozilla.org/firefox/downloads/file/3700781/snapfox-1.4.5-an+fx.xpi  then, go to extensions and
+load the file as a "unpacked extension" into opera
 
  
 ## Usage
