@@ -1,14 +1,8 @@
 <p align="right">
- 
 <a href="#opera--opera-gx"><img src="https://img.shields.io/badge/How%20to%20Download-on%20Opera-red?style=flat-square&logo=opera"> </a>
- 
-<a href="https://addons.mozilla.org/en-GB/firefox/addon/snapfox/"><img src="https://img.shields.io/badge/Download-on%20Firefox-blueviolet?style=flat-square&logo=firefox"> </a>
- 
+ <a href="https://addons.mozilla.org/en-GB/firefox/addon/snapfox/"><img src="https://img.shields.io/badge/Download-on%20Firefox-blueviolet?style=flat-square&logo=firefox"> </a>
  <img alt="GitHub" src="https://img.shields.io/github/license/Snap-Fox/SnapFox?style=flat-square">
-
- 
- <img alt="Github" src="https://img.shields.io/badge/bage-vertified-sucsess?style=flat-square">
-
+<img alt="Github" src="https://img.shields.io/badge/bage-vertified-sucsess?style=flat-square">
 </p>
 <img src="/SnapFox.png" alt="Scratch Addons logo" align="right" width="128px"></img>
 
