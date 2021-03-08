@@ -1,4 +1,6 @@
 <p align="right">
+  <a href="#chrome--brave"><img src="https://img.shields.io/badge/How%20to%20Download-on%20Brave-orange?style=flat-square&logo=brave"> </a>
+ <a href="#chrome--brave"><img src="https://img.shields.io/badge/How%20to%20Download-on%20Chrome-orange?style=flat-square&logo=google-chrome"> </a>
 <a href="#opera--opera-gx"><img src="https://img.shields.io/badge/How%20to%20Download-on%20Opera-red?style=flat-square&logo=opera"> </a>
  <a href="https://addons.mozilla.org/en-GB/firefox/addon/snapfox/"><img src="https://img.shields.io/badge/Download-on%20Firefox-blueviolet?style=flat-square&logo=firefox"> </a>
  <img alt="GitHub" src="https://img.shields.io/github/license/Snap-Fox/SnapFox?style=flat-square">
@@ -38,7 +40,7 @@ Can't install? Use the User script
 ```userscript
 // ==UserScript==
 // @name         [Snap!] Dark Theme
-// @namespace    https://snap-fox.github.io
+// @namespace    https://snap-fox.github.io-
 // @version      1.0
 // @description  Adds a dark mode for the snap! website
 // @author       Daniel Barton
