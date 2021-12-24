@@ -62,5 +62,20 @@ a {
 
 .customalert .header, .customalert .body, .customalert .footer {
     color: black;
-    
+
+}
+
+
+/* layout.css | https://snap.berkeley.edu/style/layout.css */
+
+.customalert .body, .customalert .footer {
+  /* background: #25272f; */
+  background: #21232b;
+  border-radius: 5px;
+}
+
+/* style.css | moz-extension://87b9297d-3cb0-cf48-9998-336eb7d71132/style.css */
+
+.customalert .header, .customalert .body, .customalert .footer {
+  color: ;
 }
