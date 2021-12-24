@@ -79,3 +79,18 @@ a {
 .customalert .header, .customalert .body, .customalert .footer {
   color: ;
 }
+
+
+/* style.css | moz-extension://87b9297d-3cb0-cf48-9998-336eb7d71132/style.css */
+
+.customalert .header, .customalert .body, .customalert .footer {
+  /* color: black; */
+  color: white;
+}
+
+/* pure-min.css | https://snap.berkeley.edu/libs/pure-min.css */
+
+button, input, optgroup, select, textarea {
+  /* color: inherit; */
+  color: black;
+}
