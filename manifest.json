@@ -1,8 +1,8 @@
 
 {
   "name": "SnapFox",
-  "description": "en extention for Snap on FireFox.",
-  "version": "1.4.5",
+  "description": "a skin for Snap on FireFox.",
+  "version": "1.5.0",
   "content_scripts": [
     {
       "matches": ["https://snap.berkeley.edu/*"],
