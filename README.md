@@ -1,7 +1,5 @@
 <p align="right">
-  <a href="#chrome--brave"><img src="https://img.shields.io/badge/How%20to%20Download-on%20Brave-orange?style=flat-square&logo=brave"></a>
- <a href="#chrome--brave"><img src="https://img.shields.io/badge/How%20to%20Download-on%20Chrome-orange?style=flat-square&logo=google-chrome"></a>
-<a href="#opera--opera-gx"><img src="https://img.shields.io/badge/How%20to%20Download-on%20Opera-red?style=flat-square&logo=opera"></a>
+  <a href="#Install"><img src="https://img.shields.io/badge/Download%20for-other%20browser-lightgrey?style=flat-square"></a>
  <a href="https://addons.mozilla.org/en-GB/firefox/addon/snapfox/"><img src="https://img.shields.io/badge/Download-on%20Firefox-blueviolet?style=flat-square&logo=firefox"></a>
  <img alt="GitHub" src="https://img.shields.io/github/license/Snap-Fox/SnapFox?style=flat-square">
 <img alt="Github" src="https://img.shields.io/badge/bage-vertified-sucsess?style=flat-square">
@@ -24,12 +22,12 @@ You can install SnapFox from the Firefox Addons (https://addons.mozilla.org) sto
  <a href="https://addons.mozilla.org/en-GB/firefox/addon/snapfox/"><img src="https://img.shields.io/badge/Download-on%20Firefox-blueviolet?style=flat-square&logo=firefox"> </a>
 
 ### Chrome / Brave
-Download the lastest a version of SnapFox from https://addons.mozilla.org/firefox/downloads/file/3700781/snapfox-1.4.5-an+fx.xpi  then, go to extensions, turn on developer mode and
+Download the lastest zip version of SnapFox from https://github.com/Snap-Fox/SnapFox/releases/latest then, go to extensions, turn on developer mode and
 load the file as a "unpacked extension" into chrome.
 
 ### Opera / Opera GX
-Download the lastest a version of SnapFox from https://addons.mozilla.org/firefox/downloads/file/3700781/snapfox-1.4.5-an+fx.xpi  then, go to extensions and
-load the file as a "unpacked extension" into opera
+Download the lastest zip version of SnapFox from https://github.com/Snap-Fox/SnapFox/releases/latest then, go to extensions and
+load the file as a "unpacked extension" into opera.
 
  
 ## Usage
