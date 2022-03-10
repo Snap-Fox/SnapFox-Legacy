@@ -12,6 +12,8 @@
 # SnapFox
 en extention for Snap on FireFox
 
+I created this for the forum users of the Snap<em>!</em> Website. The forums has a dark mode option and seems to be popular feature. A user asked if there was a dark mode for the Snap<em>!</em> website as well so I made this!
+
 # Guide
 
 ## Install
