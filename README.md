@@ -16,6 +16,10 @@ en extention for Snap on FireFox
 
 ## Install
 
+<details>
+<summary>How to install on other browsers...</summary>
+<br>
+
 ### FireFox
 You can install SnapFox from the Firefox Addons (https://addons.mozilla.org) store
 
@@ -33,12 +37,17 @@ load the file as a "unpacked extension" into opera.
 Download this https://github.com/Snap-Fox/SnapFox/releases/latest then follow the video.
 https://youtu.be/vW8W19W_X0I?t=107
 
+</details>
  
 ## Usage
 You can **only** use SnapFox on https://snap.berkeley.edu/
 
 ## UserScript
-Can't install? Use the User script
+Can't install? Use the User script with 3rd party apps or extensions
+<details>
+<summary>View UserScript</summary>
+<br>
+  
 ```userscript
 // ==UserScript==
 // @name         [Snap!] Dark Theme
@@ -61,6 +70,8 @@ Can't install? Use the User script
 })();
 
 ```
+  
+</details>
 
 
 # Disclaimer
