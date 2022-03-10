@@ -2,7 +2,6 @@
   <a href="#Install"><img src="https://img.shields.io/badge/Download%20for-other%20browser-lightgrey?style=flat-square"></a>
  <a href="https://addons.mozilla.org/en-GB/firefox/addon/snapfox/"><img src="https://img.shields.io/badge/Download-on%20Firefox-blueviolet?style=flat-square&logo=firefox"></a>
  <img alt="GitHub" src="https://img.shields.io/github/license/Snap-Fox/SnapFox?style=flat-square">
-<img alt="Github" src="https://img.shields.io/badge/bage-vertified-sucsess?style=flat-square">
 </p>
 <img src="/SnapFox.png" alt="Scratch Addons logo" align="right" width="128px"></img>
 
