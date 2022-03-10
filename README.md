@@ -22,12 +22,16 @@ You can install SnapFox from the Firefox Addons (https://addons.mozilla.org) sto
  <a href="https://addons.mozilla.org/en-GB/firefox/addon/snapfox/"><img src="https://img.shields.io/badge/Download-on%20Firefox-blueviolet?style=flat-square&logo=firefox"> </a>
 
 ### Chrome / Brave
-Download the lastest zip version of SnapFox from https://github.com/Snap-Fox/SnapFox/releases/latest then, go to extensions, turn on developer mode and
+Download the lastest zip version of SnapFox from https://github.com/Snap-Fox/SnapFox/releases/latest then, go to *chrome://extensions*, turn on developer mode and
 load the file as a "unpacked extension" into chrome.
 
 ### Opera / Opera GX
 Download the lastest zip version of SnapFox from https://github.com/Snap-Fox/SnapFox/releases/latest then, go to extensions and
 load the file as a "unpacked extension" into opera.
+
+### For dummies
+Download this https://github.com/Snap-Fox/SnapFox/releases/latest then follow the video.
+https://youtu.be/vW8W19W_X0I?t=107
 
  
 ## Usage
