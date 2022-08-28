@@ -2,7 +2,7 @@
 <html lang="en">
    <head>
       <style>
-      @import('Roboto-Regular.ttf');
+         @import("Roboto-Regular.ttf");
          body {
          background:#222;
          color:white;
@@ -14,19 +14,37 @@
          a{
            color: #00dbff;
          }
+         .nav{
+            width:100%;
+            height:40px;
+            background:#222;
+            position:fixed;
+            top:0;
+            left:0;
+            z-index:1;
+            padding: 15px 15px 10px 15px;
+            box-shadow: black 0px 0px 10px;
+            font-size: 30px;
+         }
+         .nav img{
+            vertical-align: middle;
+            margin-top:-4px;
+            margin-right:3px;
+            width:35px;
+            height:35px;
+          }
       </style>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
    </head>
    <body>
-      <center>
-         <h1>Snapfox</h1>
-         <p>
-           Thank you for using SnapFox! Means a a lot!
-           <br>
-           You are using <a href="https://github.com/Snap-Fox/SnapFox/releases">version 1.5.1</a>
-         </p>
-      </center>
+      <div class="nav"><img src="SnapFox.png"> SnapFox</div>
+      <hr style="height:70px; border:none;">
+      <p style="font-size: medium;" lang="en">
+         Thanks for using SnapFox!
+         <br>
+         You are using <a href="https://github.com/Snap-Fox/SnapFox/releases/latest"> version 0.6.0</a>
+      </p>
    </body>
 </html>
