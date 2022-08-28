@@ -1,67 +1,70 @@
 /*dark mode*/
 #top-bar {
-    background: #222221;
-    box-shadow: 0px 5px 5px 1px #151515;
+    background: #222221 !important; 
+    box-shadow: 0px 5px 5px 1px #151515 !important;
+    color:white !important:
 }
 
 #top-bar .pure-menu-horizontal .pure-menu-children {
-    width: auto;
-    min-width: 100%;
-    background: #222;
+    width: auto !important;
+    min-width: 100% !important;
+    background: #222 !important;
+    color:white !important:
 }
 
 #footer {
-    background: #222;
-    box-shadow: 0px 5px 5px 9px #151515;
+    background: #222 !important;
+    box-shadow: 0px 5px 5px 9px #151515 !important;
+    color:white !important:
 }
 
 body {
-    color: #fff;
-    background: #222;
+    color: #fff !important;
+    background: #222 !important;
 }
 
 .fa, .fas {
-    color: lightgray;
+    color: lightgray !important;
 }
 
 .paginator {
-    color: white;
+    color: white !important;
 }
 
 .paginator .total-pages {
-    color: lightgray;
-    filter: contrast();
+    color: lightgray !important;
+    filter: contrast() !important;
 }
 
-a {
-    color: #0F82AF;
-    text-decoration: none;
+.project.pure-u-1-5 a {
+    color: #0F82AF  !important;
+    text-decoration: none !important;
 }
 
 .collection .description, .project.big .notes {
-    color: #1a1b20;
+    color: #1a1b20 !important;
 }
 
 #loading {
-    background: #222;
-    color:white;
+    background: #222 !important;
+    color:white !important;
 }
 
 .project.big .controlbar {
-    box-sizing: border-box;
-    z-index: 200;
-    background: #222;
-    padding: 0.4em 0.5em;
-    border-radius: 5px 5px 0 0;
-    text-align: left;
+    box-sizing: border-box !important;
+    z-index: 200 !important;
+    background: #222 !important;
+    padding: 0.4em 0.5em !important;
+    border-radius: 5px 5px 0 0 !important;
+    text-align: left !important;
 }
 
 .project iframe, .project .embed-placeholder {
-    border-radius: 7px;
+    border-radius: 7px !important;
 }
 
 .customalert .header, .customalert .body, .customalert .footer {
-    color: black;
+    color: black !important;
 
 }
 
@@ -70,16 +73,11 @@ a {
 
 .customalert .body, .customalert .footer {
   /* background: #25272f; */
-  background: #21232b;
-  border-radius: 5px;
+  background: #21232b !important;
+  border-radius: 5px !important;
 }
 
 /* style.css | moz-extension://87b9297d-3cb0-cf48-9998-336eb7d71132/style.css */
-
-.customalert .header, .customalert .body, .customalert .footer {
-  color: ;
-}
-
 
 /* style.css | moz-extension://87b9297d-3cb0-cf48-9998-336eb7d71132/style.css */
 
@@ -92,5 +90,5 @@ a {
 
 button, input, optgroup, select, textarea {
   /* color: inherit; */
-  color: black;
+  color: black !important;
 }

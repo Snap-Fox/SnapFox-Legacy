@@ -1,21 +1,36 @@
-
 {
   "name": "SnapFox",
-  "description": "a skin for Snap on FireFox.",
-  "version": "1.5.1",
+  "description": "dark mode for snap.berkely.edu",
+  "version": "0.6.0",
+  "version_name": "0.6.0-beta",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "/background.js"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "icons": {
+    "16": "/icons/icon16.png",
+    "48": "/icons/icon48.png",
+    "128": "/icons/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/icons/icon16.png",
+      "48": "/icons/icon48.png",
+      "128": "/icons/icon128.png"
+    }
+  },
   "content_scripts": [
     {
-      "matches": ["https://snap.berkeley.edu/*"],
-      "js": ["script.js"],
-      "css": ["style.css"]
+      "matches": [
+        "https://snap.berkeley.edu/*"
+      ],
+      "css": [
+        "style.css"
+      ]
     }
-  ],
-  "web_accessible_resources": ["script.js", "style.css"],
-  "browser_action": {
-    "default_title": "SnapFox",
-    "default_icon": "SnapFox.png",
-    "default_popup": "popup.html"
-  },
-  "manifest_version": 2,
-  "short_name": "SFox"
+  ]
 }
