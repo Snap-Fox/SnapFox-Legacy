@@ -2,13 +2,14 @@
   "name": "SnapFox",
   "description": "dark mode for snap.berkely.edu",
   "version": "0.6.0",
-  "version_name": "0.6.0-beta",
+  "version_name": "0.6.0-alpha",
   "manifest_version": 3,
   "background": {
     "service_worker": "/background.js"
   },
   "permissions": [
-    "storage"
+    "storage",
+    "tabs"
   ],
   "icons": {
     "16": "/icons/icon16.png",
@@ -25,12 +26,15 @@
   },
   "content_scripts": [
     {
-      "matches": [
-        "https://snap.berkeley.edu/*"
-      ],
-      "css": [
-        "style.css"
-      ]
+      "matches": ["https://snap.berkeley.edu/*"],
+      "js": ["script.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["style.css"],
+      "matches": ["https://snap.berkeley.edu/*"],
+      "use_dynamic_url": true
     }
   ]
 }
