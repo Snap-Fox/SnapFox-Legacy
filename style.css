@@ -41,9 +41,6 @@ body {
     text-decoration: none !important;
 }
 
-.collection .description, .project.big .notes {
-    color: #1a1b20 !important;
-}
 
 #loading {
     background: #222 !important;
@@ -92,3 +89,66 @@ button, input, optgroup, select, textarea {
   /* color: inherit; */
   color: black !important;
 }
+
+.start-button {
+    color: #66ee66 !important;
+}
+
+.project.big .controlbar .pause-button {
+    color: #ffdc00 !important;
+}
+.project.big .controlbar .present-button {
+    color: #ffffff !important;
+}
+.stop-button{
+    margin-left: -5px !important;
+}
+.warning{
+    color:Tomato !important;
+}
+.notes{
+    background:#ffffff14 !important;
+    color:white !important;
+}
+.notes #text{
+    color:white !important;
+}
+.notes a{
+    color: #0F82AF  !important;
+}
+
+html {
+    --scrollbarBG: #333333;
+    --thumbBG: #ffffff44;
+  }
+  body::-webkit-scrollbar {
+    width: 13px !important;
+  }
+  body {
+    scrollbar-width: thin !important;
+    scrollbar-color: var(--thumbBG) var(--scrollbarBG) !important;
+  }
+  body::-webkit-scrollbar-track {
+    background: var(--scrollbarBG) !important;
+  }
+  body::-webkit-scrollbar-thumb {
+    background-color: var(--thumbBG) !important;
+    border-radius: 1000px !important;
+    border: 3px solid var(--scrollbarBG) !important;
+  }
+
+  .notes::-webkit-scrollbar {
+    width: 13px;
+  }
+  .notes {
+    scrollbar-width: thin;
+    scrollbar-color: var(--thumbBG) var(--scrollbarBG);
+  }
+  .notes::-webkit-scrollbar-track {
+    background: var(--scrollbarBG);
+  }
+  body::-webkit-scrollbar-thumb {
+    background-color: var(--thumbBG) ;
+    border-radius: 1000px;
+    border: 3px solid var(--scrollbarBG);
+  }
