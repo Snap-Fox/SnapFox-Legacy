@@ -27,5 +27,10 @@
         "style.css"
       ]
     }
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "daniel4scratchhelp@gmail.com"
+    }
+  }
 }
