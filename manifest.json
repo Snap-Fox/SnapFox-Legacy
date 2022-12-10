@@ -1,40 +1,31 @@
 {
   "name": "SnapFox",
   "description": "dark mode for snap.berkely.edu",
-  "version": "0.6.0",
-  "version_name": "0.6.0-beta",
-  "manifest_version": 3,
+  "version": "1.7.0",
+  "version_name": "1.7.0-firefox",
+  "manifest_version": 2,
   "background": {
     "service_worker": "/background.js"
   },
-  "permissions": [
-    "storage",
-    "tabs"
-  ],
   "icons": {
     "16": "/icons/icon16.png",
     "48": "/icons/icon48.png",
     "128": "/icons/icon128.png"
   },
-  "action": {
-    "default_popup": "popup.html",
-    "default_icon": {
-      "16": "/icons/icon16.png",
-      "48": "/icons/icon48.png",
-      "128": "/icons/icon128.png"
-    }
+  "browser_action": {
+    "default_title": "SnapFox",
+    "default_icon": "/icons/icon48.png",
+    "default_popup": "popup.html"
   },
   "content_scripts": [
     {
-      "matches": ["https://snap.berkeley.edu/*"],
-      "js": ["script.js"]
-    }
-  ],
-  "web_accessible_resources": [
-    {
-      "resources": ["style.css"],
-      "matches": ["https://snap.berkeley.edu/*"],
-      "use_dynamic_url": true
+      "matches": [
+        "https://snap.berkeley.edu/*"
+      ],
+      "css": [
+        "loader.css",
+        "style.css"
+      ]
     }
   ]
 }
