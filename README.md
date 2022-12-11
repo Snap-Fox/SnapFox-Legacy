@@ -1,6 +1,6 @@
 <center>
 <img src="/SnapFox.png" width="128px" align="right"></img>
- <a href="https://addons.mozilla.org/en-GB/firefox/addon/snapfox/"><img src="https://img.shields.io/badge/Download-for%20Firefox-blueviolet?style=flat-square&logo=firefox"></a> <a href="https://addons.mozilla.org/en-GB/firefox/addon/snapfox/"><img src="https://img.shields.io/badge/Coming%20to-Chrome-lightgrey?style=flat-square&logo=googlechrome"></a>
+ <a href="https://addons.mozilla.org/en-GB/firefox/addon/snapfox/"><img src="https://img.shields.io/badge/Download-for%20Firefox-orange?style=flat-square&logo=firefox"></a> <a href="https://chrome.google.com/webstore/detail/snapfox/ddncbldebnaiighhpoblefaipmlldfde"><img src="https://img.shields.io/badge/Download-for%20Chrome-blue?style=flat-square&logo=googlechrome"></a>
  
 </center>
 
